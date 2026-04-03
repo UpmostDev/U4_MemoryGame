@@ -4,7 +4,7 @@ Submitted by: **Jordyn Richmond**
 
 **Memory Game** is a SwiftUI-based card matching game where players flip cards to find matching pairs. The app features animated card flips, adjustable difficulty levels, and a clean grid layout.
 
-Time spent: **10** hours spent in total
+Time spent: **14** hours spent in total
 
 ## Required Features
 
@@ -13,12 +13,11 @@ The following **required** functionality is completed:
 - [x] App loads to display a grid of cards initially placed face-down
 - [x] Users can tap cards to toggle their display between the back and the face
 - [x] When two matching cards are found, they both disappear from view
-- [x] When two cards don't match, they flip back to face-down after a short delay
 - [x] User can reset the game and start a new game via a button
 
 The following **optional** features are implemented:
 
-- [x] User can select number of pairs to play with (3, 6, and 10 pairs)
+- [] User can select number of pairs to play with (at least 2 unique values like 2 and 4).
 - [x] App allows for user to scroll to see pairs out of view
 - [x] Visual polish with colored buttons, card shadows, and styled UI
 
@@ -29,7 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[Guide]().
+[Guide](https://youtube.com/shorts/lVu-wL7PFMA).
 
 ## Notes
 
